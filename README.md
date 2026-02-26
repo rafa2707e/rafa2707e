@@ -7,7 +7,7 @@
       <p>Desenvolvedor <b>Back-end</b> apaixonado por arquitetura limpa e sistemas escaláveis. Trabalho principalmente com <b>Java</b> e <b>Node.js</b>, sempre buscando escrever código que seja fácil de manter e evoluir.</p>
       <p>Quando não estou codando, estou estudando sobre Cloud, lendo sobre boas práticas de engenharia de software ou contribuindo para a comunidade dev. 🚀</p>
       <br/>
-      <a href="https://linkedin.com/in/seu-linkedin-aqui" target="_blank">
+      <a href="https://www.linkedin.com/in/rafael-oliveira-46052516b/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <a href="mailto:rafa.nana.moura@gmail.com">
@@ -27,13 +27,13 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>📦 Nome do Projeto 1</h3>
-      <p>Breve descrição do que o projeto faz e qual problema resolve. Tecnologias usadas: Java, Spring Boot, PostgreSQL.</p>
-      <a href="https://github.com/rafa2707e/nome-do-projeto">Ver repositório →</a>
+      <h3>💈 Barbeaira Inteligent</h3>
+      <p> Um app de agendamento integrado com uam IA para ajudar os clientes a escolher o seu corte se estiverem com duvida, esse projete ajudeou demais a barbearia economizando tempo e descartando as agendas de papel Tecnologias usadas: JavaScript, React Native e  MongoDB.</p>
+      <a href="https://github.com/rafa2707e/App-Barber">Ver repositório →</a>
     </td>
     <td width="50%">
-      <h3>🛠 Nome do Projeto 2</h3>
-      <p>Breve descrição do que o projeto faz e qual problema resolve. Tecnologias usadas: Node.js, Express, MongoDB.</p>
+      <h3>🛠 Rafa me Ajuda</h3>
+      <p>Ajudar leigos em tecnologia com soluções simpels e Rapidas. Tecnologias usadas: Java, SpringBoot e  MongoDB.</p>
       <a href="https://github.com/rafa2707e/nome-do-projeto">Ver repositório →</a>
     </td>
   </tr>
