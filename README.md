@@ -147,38 +147,6 @@
 
 
 <details>
-<summary>📋 Como ativar a snake (clique para expandir)</summary>
-
-Crie o arquivo `.github/workflows/snake.yml` com o seguinte conteúdo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: rafa2707e
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Depois vá em **Settings → Actions → General** e habilite permissões de escrita para o Actions.
-</details>
 
 <!-- Banner de rodapé -->
 <p align="center">
