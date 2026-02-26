@@ -145,7 +145,6 @@
   </picture>
 </p>
 
-> ⚙️ *Para ativar a snake, crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil — instruções abaixo!*
 
 <details>
 <summary>📋 Como ativar a snake (clique para expandir)</summary>
