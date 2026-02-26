@@ -72,26 +72,7 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img width="100%" src="https://readme-stats.clckblog.space/api?username=rafa2707e&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
-</p>
-
-<table>
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://readme-stats.clckblog.space/api/top-langs/?username=rafa2707e&hide_border=true&theme=react&layout=compact&cache_seconds=86400" />
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=rafa2707e&theme=react&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafa2707e&theme=oceanic&no-bg=true&column=7&margin-w=4&cache_seconds=86400" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=rafa2707e&theme=react&hide_border=true" />
 </p>
 
 ---
@@ -99,5 +80,5 @@
 ## 📈 Atividade
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafa2707e&theme=react&hide_border=true&area=true&cache_seconds=86400" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafa2707e&theme=react&hide_border=true&area=true" />
 </p>
