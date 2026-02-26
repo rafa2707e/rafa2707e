@@ -17,7 +17,7 @@
 - [ ] 🚀 Aprofundar meus conhecimentos em microserviços e arquitetura de sistemas.
 - [ ] 💻 Contribuir para projetos open-source e expandir meu networking.
 - [ ] ☁️ Obter certificações em tecnologias Cloud (AWS/Azure).
-- [ ] 🎓 Concluir projetos práticos utilizando Spring Boot e Node.js para fortalecer meu portfólio.
+- [ ] 🎓 Concluir projetos práticos utilizando Spring Boot e Node.js.
 
 ---
 
@@ -53,7 +53,7 @@
 
 ## 🏆 Meus Troféus
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafa2707e&theme=oceanic&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rafa2707e&theme=oceanic&no-bg=true&column=7&margin-w=4" />
 </p>
 
 ---
