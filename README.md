@@ -39,7 +39,6 @@
   </tr>
 </table>
 
-> 💡 *Substitua os projetos acima pelos seus repositórios reais — essa seção é o coração do seu perfil!*
 
 ---
 
