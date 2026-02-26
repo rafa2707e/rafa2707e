@@ -1,6 +1,6 @@
 # Olá, eu sou o **Rafael Moura**! 👋
 
-Sou um desenvolvedor **Back-end em aprendizado contínuo**, focado em construir soluções robustas e escaláveis. Atualmente focado no ecossistema JavaScript e Java.
+Sou um desenvolvedor **Back-end em aprendizado contínuo**, focado em construir soluções robustas e escaláveis. Atualmente focado no ecossistema Java,Spring Boot e AWS .
 
 ---
 
