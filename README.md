@@ -1,64 +1,103 @@
-# 💫 Sobre Mim:
+# 💫 Sobre Mim
 
 <table>
   <tr>
     <td>
       <h1>Hey 👋, eu sou o Rafael Moura!</h1>
-      <p>Sou um desenvolvedor <b>Back-end em aprendizado contínuo</b>, focado em criar soluções robustas com Java e Node.js.</p>
-      <p>📫 Contato: <a href="mailto:rafa.nana.moura@gmail.com">rafa.nana.moura@gmail.com</a></p>
+      <p>Desenvolvedor <b>Back-end</b> apaixonado por arquitetura limpa e sistemas escaláveis. Trabalho principalmente com <b>Java</b> e <b>Node.js</b>, sempre buscando escrever código que seja fácil de manter e evoluir.</p>
+      <p>Quando não estou codando, estou estudando sobre Cloud, lendo sobre boas práticas de engenharia de software ou contribuindo para a comunidade dev. 🚀</p>
+      <br/>
+      <a href="https://linkedin.com/in/seu-linkedin-aqui" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="mailto:rafa.nana.moura@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="250px" />
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250px" />
     </td>
   </tr>
 </table>
 
-## 🎯 Meus Objetivos:
-- [ ] 🚀 Aprofundar meus conhecimentos em microserviços e arquitetura de sistemas.
-- [ ] 💻 Contribuir para projetos open-source e expandir meu networking.
-- [ ] ☁️ Obter certificações em tecnologias Cloud (AWS/Azure).
-- [ ] 🎓 Concluir projetos práticos utilizando Spring Boot e Node.js.
+---
+
+## 🚀 Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📦 Nome do Projeto 1</h3>
+      <p>Breve descrição do que o projeto faz e qual problema resolve. Tecnologias usadas: Java, Spring Boot, PostgreSQL.</p>
+      <a href="https://github.com/rafa2707e/nome-do-projeto">Ver repositório →</a>
+    </td>
+    <td width="50%">
+      <h3>🛠 Nome do Projeto 2</h3>
+      <p>Breve descrição do que o projeto faz e qual problema resolve. Tecnologias usadas: Node.js, Express, MongoDB.</p>
+      <a href="https://github.com/rafa2707e/nome-do-projeto">Ver repositório →</a>
+    </td>
+  </tr>
+</table>
+
+> 💡 *Substitua os projetos acima pelos seus repositórios reais — essa seção é o coração do seu perfil!*
 
 ---
 
-## 🛠 Ferramentas & Tecnologias:
+## 🛠 Ferramentas & Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" width="45" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" width="45" alt="Spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" width="45" alt="NodeJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" width="45" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" width="45" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" width="45" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" width="45" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" width="45" alt="Spring" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" width="45" alt="NodeJS" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" width="45" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" width="45" alt="MongoDB" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" width="45" alt="AWS" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="45" alt="Git" title="Git" />
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub:
+## 🎯 O que estou construindo agora
+
+| Status | Meta |
+|--------|------|
+| 🔄 Em progresso | Aprofundando conhecimentos em microserviços e arquitetura de sistemas |
+| 🔄 Em progresso | Desenvolvendo projetos práticos com Spring Boot e Node.js |
+| 📋 Planejado | Certificação AWS Cloud Practitioner |
+| 📋 Planejado | Contribuições para projetos open-source |
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=rafa2707e&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
-<p align="center">
-  <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa2707e&hide_border=true&theme=react&layout=compact" />
-  <img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rafa2707e&theme=react&hide_border=true" />
-</p>
-
-<br><br><br><br><br><br><br><br>
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa2707e&hide_border=true&theme=react&layout=compact" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafa2707e&theme=react&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Meus Troféus
+## 🏆 Troféus
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rafa2707e&theme=oceanic&no-bg=true&column=7&margin-w=4" />
 </p>
 
 ---
 
-## 📈 Gráfico de Atividade
+## 📈 Atividade
+
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafa2707e&theme=react&hide_border=true&area=true" />
 </p>
